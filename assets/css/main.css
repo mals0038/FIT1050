@@ -2825,14 +2825,9 @@ input, select, textarea {
 				vertical-align: middle;
 			}
 
-			#header .logo .title {
+			#header .logo h1 {
 				text-decoration: none;
 				color: #000;
-				margin: 0;
-				padding: 0;
-			}
-
-			#header .logo .title h1 {
 				margin: 0;
 				padding: 0;
 			}
@@ -3518,6 +3513,7 @@ input, select, textarea {
 		#office iframe {
 			margin-left: 40px;
 			margin-right: 50px;
+			max-width: 80%;
 		}
 }
 
